@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmxQVlZHeBpUOnwkHwbbHgadBI39JoZ/oiNB6CtWbX94C/X5flDtgUtK+gTgnNZCY5X2GMlBB8tnPzQm8Eim2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashur\\source\\repos\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashur\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\ashur\\.nuget\\packages\\opencvsharp4.runtime.win\\4.8.0.20230708\\opencvsharp4.runtime.win.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\ashur\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ashur\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
